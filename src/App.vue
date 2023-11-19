@@ -647,9 +647,6 @@ button:hover {
   form {
     grid-template-columns: repeat(2, 1fr);
   }
-  .form_field {
-    // border-radius: 0;
-  }
   .logo {
     width: 100px;
     height: 100px;
